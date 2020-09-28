@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atividade_ohata 24_8 parte 2", "atividade_ohata 24_8 parte 2\atividade_ohata 24_8 parte 2.csproj", "{3C9FE3AA-4AE3-49B2-8AEF-4432CF5AEA5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C9FE3AA-4AE3-49B2-8AEF-4432CF5AEA5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C9FE3AA-4AE3-49B2-8AEF-4432CF5AEA5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C9FE3AA-4AE3-49B2-8AEF-4432CF5AEA5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C9FE3AA-4AE3-49B2-8AEF-4432CF5AEA5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CE11337-8B3E-4740-A8E5-BF438E70A0BF}
+	EndGlobalSection
+EndGlobal

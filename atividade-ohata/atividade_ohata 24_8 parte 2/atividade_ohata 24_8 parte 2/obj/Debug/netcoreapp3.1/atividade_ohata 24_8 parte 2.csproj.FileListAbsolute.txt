@@ -1,0 +1,11 @@
+C:\Users\mathe\source\repos\atividade-ohata\atividade_ohata 24_8 parte 2\atividade_ohata 24_8 parte 2\bin\Debug\netcoreapp3.1\atividade_ohata 24_8 parte 2.exe
+C:\Users\mathe\source\repos\atividade-ohata\atividade_ohata 24_8 parte 2\atividade_ohata 24_8 parte 2\bin\Debug\netcoreapp3.1\atividade_ohata 24_8 parte 2.deps.json
+C:\Users\mathe\source\repos\atividade-ohata\atividade_ohata 24_8 parte 2\atividade_ohata 24_8 parte 2\bin\Debug\netcoreapp3.1\atividade_ohata 24_8 parte 2.runtimeconfig.json
+C:\Users\mathe\source\repos\atividade-ohata\atividade_ohata 24_8 parte 2\atividade_ohata 24_8 parte 2\bin\Debug\netcoreapp3.1\atividade_ohata 24_8 parte 2.runtimeconfig.dev.json
+C:\Users\mathe\source\repos\atividade-ohata\atividade_ohata 24_8 parte 2\atividade_ohata 24_8 parte 2\bin\Debug\netcoreapp3.1\atividade_ohata 24_8 parte 2.dll
+C:\Users\mathe\source\repos\atividade-ohata\atividade_ohata 24_8 parte 2\atividade_ohata 24_8 parte 2\bin\Debug\netcoreapp3.1\atividade_ohata 24_8 parte 2.pdb
+C:\Users\mathe\source\repos\atividade-ohata\atividade_ohata 24_8 parte 2\atividade_ohata 24_8 parte 2\obj\Debug\netcoreapp3.1\atividade_ohata 24_8 parte 2.csprojAssemblyReference.cache
+C:\Users\mathe\source\repos\atividade-ohata\atividade_ohata 24_8 parte 2\atividade_ohata 24_8 parte 2\obj\Debug\netcoreapp3.1\atividade_ohata 24_8 parte 2.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\atividade-ohata\atividade_ohata 24_8 parte 2\atividade_ohata 24_8 parte 2\obj\Debug\netcoreapp3.1\atividade_ohata 24_8 parte 2.AssemblyInfo.cs
+C:\Users\mathe\source\repos\atividade-ohata\atividade_ohata 24_8 parte 2\atividade_ohata 24_8 parte 2\obj\Debug\netcoreapp3.1\atividade_ohata 24_8 parte 2.dll
+C:\Users\mathe\source\repos\atividade-ohata\atividade_ohata 24_8 parte 2\atividade_ohata 24_8 parte 2\obj\Debug\netcoreapp3.1\atividade_ohata 24_8 parte 2.pdb
