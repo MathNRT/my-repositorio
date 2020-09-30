@@ -1,0 +1,13 @@
+D:\faculdade\unity\codigos do visual studio\Exercício individual Aula 31_08\Exercício individual Aula 31_08\bin\Debug\netcoreapp3.1\Exercício individual Aula 31_08.exe
+D:\faculdade\unity\codigos do visual studio\Exercício individual Aula 31_08\Exercício individual Aula 31_08\bin\Debug\netcoreapp3.1\Exercício individual Aula 31_08.deps.json
+D:\faculdade\unity\codigos do visual studio\Exercício individual Aula 31_08\Exercício individual Aula 31_08\bin\Debug\netcoreapp3.1\Exercício individual Aula 31_08.runtimeconfig.json
+D:\faculdade\unity\codigos do visual studio\Exercício individual Aula 31_08\Exercício individual Aula 31_08\bin\Debug\netcoreapp3.1\Exercício individual Aula 31_08.runtimeconfig.dev.json
+D:\faculdade\unity\codigos do visual studio\Exercício individual Aula 31_08\Exercício individual Aula 31_08\bin\Debug\netcoreapp3.1\Exercício individual Aula 31_08.dll
+D:\faculdade\unity\codigos do visual studio\Exercício individual Aula 31_08\Exercício individual Aula 31_08\bin\Debug\netcoreapp3.1\Exercício individual Aula 31_08.pdb
+D:\faculdade\unity\codigos do visual studio\Exercício individual Aula 31_08\Exercício individual Aula 31_08\obj\Debug\netcoreapp3.1\Exercício individual Aula 31_08.csprojAssemblyReference.cache
+D:\faculdade\unity\codigos do visual studio\Exercício individual Aula 31_08\Exercício individual Aula 31_08\obj\Debug\netcoreapp3.1\Exercício individual Aula 31_08.AssemblyInfoInputs.cache
+D:\faculdade\unity\codigos do visual studio\Exercício individual Aula 31_08\Exercício individual Aula 31_08\obj\Debug\netcoreapp3.1\Exercício individual Aula 31_08.AssemblyInfo.cs
+D:\faculdade\unity\codigos do visual studio\Exercício individual Aula 31_08\Exercício individual Aula 31_08\obj\Debug\netcoreapp3.1\Exercício individual Aula 31_08.csproj.CoreCompileInputs.cache
+D:\faculdade\unity\codigos do visual studio\Exercício individual Aula 31_08\Exercício individual Aula 31_08\obj\Debug\netcoreapp3.1\Exercício individual Aula 31_08.dll
+D:\faculdade\unity\codigos do visual studio\Exercício individual Aula 31_08\Exercício individual Aula 31_08\obj\Debug\netcoreapp3.1\Exercício individual Aula 31_08.pdb
+D:\faculdade\unity\codigos do visual studio\Exercício individual Aula 31_08\Exercício individual Aula 31_08\obj\Debug\netcoreapp3.1\Exercício individual Aula 31_08.genruntimeconfig.cache
